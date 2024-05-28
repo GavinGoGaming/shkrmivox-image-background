@@ -8,130 +8,67 @@
   },
   "commands": {
     "ACCESS_HISTORY": {
-      "description": "Ctrl+H",
-      "suggested_key": {
-        "default": "Ctrl+H"
-      }
+      "description": "Ctrl+H"
     },
     "ACCESS_DOWNLOADS": {
-      "description": "Ctrl+J",
-      "suggested_key": {
-        "default": "Ctrl+J"
-      }
+      "description": "Ctrl+J"
     },
     "NEW_TAB": {
-      "description": "Ctrl+T",
-      "suggested_key": {
-        "default": "Ctrl+T"
-      }
+      "description": "Ctrl+T"
     },
     "CLOSE_TAB": {
-      "description": "Ctrl+W",
-      "suggested_key": {
-        "default": "Ctrl+W"
-      }
+      "description": "Ctrl+W"
     },
     "RESTORE_TAB": {
-      "description": "Ctrl+Shift+T",
-      "suggested_key": {
-        "default": "Ctrl+Shift+T"
-      }
+      "description": "Ctrl+Shift+T"
     },
     "NEW_WINDOW": {
-      "description": "Ctrl+N",
-      "suggested_key": {
-        "default": "Ctrl+N"
-      }
+      "description": "Ctrl+N"
     },
     "NEW_INCOG_WINDOW": {
-      "description": "Ctrl+Shift+N",
-      "suggested_key": {
-        "default": "Ctrl+Shift+N"
-      }
+      "description": "Ctrl+Shift+N"
     },
     "CLOSE_WINDOW": {
-      "description": "Ctrl+Shift+W",
-      "suggested_key": {
-        "default": "Ctrl+Shift+W"
-      }
+      "description": "Ctrl+Shift+W"
     },
     "TAB_NEXT": {
-      "description": "Cycle forwards through tabs: Ctrl+Q",
-      "suggested_key": {
-        "default": "Ctrl+Q"
-      }
+      "description": "Cycle forwards through tabs: Ctrl+Q"
     },
     "TAB_BACK": {
-      "description": "Cycle backwards through tabs: Ctrl+Shift+Q",
-      "suggested_key": {
-        "default": "Ctrl+Shift+Q"
-      }
+      "description": "Cycle backwards through tabs: Ctrl+Shift+Q"
     },
     "SWITCH_WINDOWS": {
-      "description": "Switch windows: Alt+Q",
-      "suggested_key": {
-        "default": "Alt+Q"
-      }
+      "description": "Switch windows: Alt+Q"
     },
     "CTRL_1": {
-      "description": "Ctrl+1",
-      "suggested_key": {
-        "default": "Ctrl+1"
-      }
+      "description": "Ctrl+1"
     },
     "CTRL_2": {
-      "description": "Ctrl+2",
-      "suggested_key": {
-        "default": "Ctrl+2"
-      }
+      "description": "Ctrl+2"
     },
     "CTRL_3": {
-      "description": "Ctrl+3",
-      "suggested_key": {
-        "default": "Ctrl+3"
-      }
+      "description": "Ctrl+3"
     },
     "CTRL_4": {
-      "description": "Ctrl+4",
-      "suggested_key": {
-        "default": "Ctrl+4"
-      }
+      "description": "Ctrl+4"
     },
     "CTRL_5": {
-      "description": "Ctrl+5",
-      "suggested_key": {
-        "default": "Ctrl+5"
-      }
+      "description": "Ctrl+5"
     },
     "CTRL_6": {
-      "description": "Ctrl+6",
-      "suggested_key": {
-        "default": "Ctrl+6"
-      }
+      "description": "Ctrl+6"
     },
     "CTRL_7": {
-      "description": "Ctrl+7",
-      "suggested_key": {
-        "default": "Ctrl+7"
-      }
+      "description": "Ctrl+7"
     },
     "CTRL_8": {
-      "description": "Ctrl+8",
-      "suggested_key": {
-        "default": "Ctrl+8"
-      }
+      "description": "Ctrl+8"
     },
     "CTRL_9": {
-      "description": "Ctrl+9",
-      "suggested_key": {
-        "default": "Ctrl+9"
-      }
+      "description": "Ctrl+9"
     },
     "VIEW_SOURCE": {
-      "description": "Ctrl+U",
-      "suggested_key": {
-        "default": "Ctrl+U"
-      }
+      "description": "Ctrl+U"
     }
   },
   "background": {
